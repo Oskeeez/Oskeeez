@@ -8,6 +8,9 @@ My goal is to fix that.
 
 ## Key Focus: Remote Offworld Autonomous Rover (ROAR)
 
+<img width="1685" height="948" alt="image" src="https://github.com/user-attachments/assets/c6614560-a34c-43a2-b8ba-56ea82928f0e" />
+
+
 I recently joined the Post-Landing team at QUT's Mars Rover Team and work with a **6-DOF Robot Arm**.
 ### My goals for this development cycle are:
 *   **Precision Control:** Implementing Inverse Kinematics (IK) for intuitive end-effector movement.
